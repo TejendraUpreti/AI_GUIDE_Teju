@@ -1,1 +1,0 @@
-async function sendMessage(){const m=document.getElementById("userInput").value;document.getElementById("messages").innerHTML+=`<p>You: ${m}</p>`;}
