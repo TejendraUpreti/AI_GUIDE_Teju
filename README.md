@@ -1,1 +1,0 @@
-AI Enhanced Guide Project with AI Chat placeholder.
